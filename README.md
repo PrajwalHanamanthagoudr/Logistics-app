@@ -26,9 +26,8 @@ To set up the project locally, follow these steps:
 4. npm run dev
 
 ## Site is live on
-Netlify :- https://boxigo.netlify.app/my-moves
-Vercel :- https://boxigo-logistics-r7gd7vljd-prajwalhanamanthagoudrs-projects.vercel.app
-
+1. Netlify :- https://boxigo.netlify.app/my-moves
+2. Vercel :- https://boxigo-logistics-r7gd7vljd-prajwalhanamanthagoudrs-projects.vercel.app
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/991733ce-22cb-44cb-ada4-cf5743bffdac)
