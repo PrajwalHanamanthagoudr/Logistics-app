@@ -31,8 +31,6 @@ Screenshots
 ![image](https://github.com/user-attachments/assets/e6065912-e5f6-416e-af29-d7ffad739717)
 ![image](https://github.com/user-attachments/assets/a5c534a2-cb3e-4d2d-8853-a48681236f23)
 
-Video
-![image](https://github.com/user-attachments/assets/bf03a1f9-7943-488c-a707-3ad2b1e7caf0)
 
 
 
