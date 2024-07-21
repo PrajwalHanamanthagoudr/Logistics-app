@@ -1,8 +1,16 @@
-# React + Vite
+# Logistics App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a logistics application developed using React JS. It consumes an API to display move details and allows users to view and collapse additional item details.
 
-Currently, two official plugins are available:
+## Features
+- Fetch and display move details from API
+- Expand and collapse item details on button click
+- User-friendly interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PrajwalHanamanthagoudr/Logistics-app.git
